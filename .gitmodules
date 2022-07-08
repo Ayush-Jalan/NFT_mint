@@ -1,0 +1,3 @@
+[submodule "buildspace-nft-course-starter"]
+	path = buildspace-nft-course-starter
+	url = https://github.com/buildspace/buildspace-nft-course-starter.git
